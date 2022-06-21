@@ -1,3 +1,3 @@
-##Employee Management System
+## Employee Management System
 
-#Java, ReactJs and SpringBoota
+# Java, ReactJs and SpringBoot
